@@ -1,10 +1,13 @@
-# tokoAnekaComplete
+// sengaja dikasih main biar bisa masuk ke dalam readme.md
+main(){
 
-# include <iostream>
-# include <string>
-using namespace std;
+	#include <iostream>
+	#include <string>
+	using namespace std;
+}
 
 int main(){
+
 	string namaBarang, kodeBarang;
 	int jumlah,kode,harga,bayar;
 	float totbay,total,totPPn,kembalian;
@@ -128,3 +131,4 @@ int main(){
 }
 
 Code Source C++ dev
+# Toko Aneka Complete menggunakan case and if else
